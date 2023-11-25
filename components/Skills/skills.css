@@ -1,0 +1,75 @@
+.box1 img{
+    justify-content: space-around;
+    display: inline-flex;
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+
+    
+}
+.box1{
+    margin: auto;
+    max-width: 80vw;
+}
+
+.skills .box1,
+.skills .box2,
+.skills .box3 {
+    border: 1px solid #ccc; /* Light grey border */
+    padding: 15px;
+    margin-bottom: 20px;
+    width: 60%; /* Adjust the width as necessary */
+    text-align: center;
+}
+
+/* Styling for images in each skill box */
+.skills img {
+    max-width: 100px; /* Adjust the size as necessary */
+    margin: 10px;
+}
+
+/* Specific styling for individual skill boxes */
+.skills .box1 h1,
+.skills .box2 h2,
+.skills .box3 h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.htmlcss h3 {
+        margin-bottom: 20px;
+        margin-top: 30px;
+        font-size: 30px;
+        width:500px;
+        font-weight: 100;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        margin-left: 33%;
+       
+
+
+}
+.title h1{
+    margin-bottom: 20px;
+    display: flex;
+    text-align: center;
+    overflow: hidden;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box2{
+    justify-content: space-around;
+    justify-content: center;
+    margin: auto;
+    max-width: 80vw;
+}
+.box3{
+    justify-content: space-around;
+    justify-content: center;
+    margin: auto;
+    max-width: 80vw;
+}
+

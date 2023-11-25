@@ -1,0 +1,35 @@
+header .header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    
+  }
+  .header-inner .link {
+    margin-right: 30px;
+    color: var(--light);
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    transition: 0.3s;
+  }
+  .logo{
+   margin-right: 1;
+}
+.link{
+    text-decoration: none;
+    margin: 0 23px;
+}
+.Navbar {
+    
+    display: flex;
+    align-items: center;
+    /* gap: 1rem;  */
+    position: sticky;
+    max-width: 100%;
+   justify-self: center;
+}
+header{
+    display: flex;
+  justify-content: center;
+}

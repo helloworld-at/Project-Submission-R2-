@@ -1,0 +1,32 @@
+.footerstyle {
+    background-color:rgb(248, 209, 215);
+    text-align: center;
+    padding: 1rem;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+
+};
+
+
+.linkstyle img{
+    display: flex;
+   margin-right: 10px;
+}
+
+.linkstyle a {
+    margin: 0 15px; /* Adjust the margin as needed for spacing between icons */
+  }
+  
+  .gmaillink,
+  .linkedinlink,
+  .githublink {
+    display: inline-block;
+  }
+
+  /* .linkedinlink{
+    height: 16px;
+    width:16px
+  } */
+
+
