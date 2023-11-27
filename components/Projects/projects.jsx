@@ -10,7 +10,7 @@ const Projects = () => {
         <div class="project-card">
             <img src={project1} alt="Project 1" class="project-image"/>
             <div class="project-details">
-                <div class="project-title"><h2>Airplane Reservation System</h2></div>
+                <div class="project-title"><h2>Project 1</h2></div>
                 <a href="https://github.com/helloworld-at/Oop--Project">View Project</a>
             </div>
         </div>
@@ -19,7 +19,7 @@ const Projects = () => {
         <div class="project-card">
             <img src={project2} alt="Project 2" className="project-image"/>
             <div class="project-details">
-                <div class="project-title"><h2>Shoes Website</h2></div>
+                <div class="project-title"><h2>Project 2</h2></div>
                 <a href="https://github.com/helloworld-at/Final-Project/tree/main/Project%20of%20HTML">View Project</a>
             </div>
         </div>
